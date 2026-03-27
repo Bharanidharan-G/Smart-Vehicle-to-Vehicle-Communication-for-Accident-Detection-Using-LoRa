@@ -60,7 +60,7 @@ Overall, the working principle ensures:
 - Fast and reliable communication between vehicles
 - Real-time driver alerting for enhanced road safety
 
-  <img width="732" height="734" alt="image" src="https://github.com/user-attachments/assets/9d879899-3a91-4560-bd16-16f09ab6fd07" />
+  <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/9d879899-3a91-4560-bd16-16f09ab6fd07" />
 
 
 ## 🔄 Workflow
@@ -70,6 +70,11 @@ Overall, the working principle ensures:
 4. Nearby vehicles receive alert
 5. LCD displays location
 6. Buzzer alerts driver
+
+## Hardware Setup
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/efe259a8-098f-444c-a58a-ed3efa883192" />
+
+
 
 ## 🌟 Features
 - Works without internet or GSM network
